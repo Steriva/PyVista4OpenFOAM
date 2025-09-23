@@ -6,3 +6,4 @@ Tutorial repository on how to use PyVista to plot/manipulate OpenFOAM results.
 - `pyvista`
 - `Python >= 3.8`
 - `IPykernel`
+- `fluidfoam` (optional to use utils.py)
