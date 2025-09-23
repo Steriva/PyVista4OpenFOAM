@@ -1,6 +1,10 @@
 # Mac
 .DS_Store
 
+# Data
+*.npz
+*.vtk
+
 # Unzipped files
 flowcyl
 
